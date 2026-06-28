@@ -1,0 +1,12 @@
+﻿# Reasonix
+.reasonix/
+CSDN/.reasonix/
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+*~
+
+# Logs
+*.log
