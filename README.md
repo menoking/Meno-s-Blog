@@ -2,13 +2,12 @@
 
 <div align="center">
 
-**「从嵌入式到具身智能，一条技术路线的全记录」**
-
-*"From Embedded Systems to Embodied AI — A Complete Technical Journey"*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=%E4%BB%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%88%B0%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD;%E4%B8%80%E6%9D%A1%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E7%9A%84%E5%85%A8%E8%AE%B0%E5%BD%95;From+Embedded+Systems+to+Embodied+AI;A+Complete+Technical+Journey)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/Blog-CSDN-orange?style=flat-square&logo=rss)](https://blog.csdn.net/2203_75993546?spm=1001.2014.3001.5343)
 [![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmenoking%2FMeno-s-Blog&label=Visitors&labelColor=%232f80ed&countColor=%23ffffff&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmenoking%2FMeno-s-Blog)
 
 </div>
 
@@ -190,15 +189,39 @@
 
 > 基于 NVIDIA Isaac Lab 的具身智能强化学习项目 / Embodied AI RL projects built on NVIDIA Isaac Lab
 
+<div align="center">
+
+<a href="https://github.com/menoking/go2_demo">
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=menoking&repo=go2_demo&theme=tokyonight&show_owner=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/menoking/go2_aer">
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=menoking&repo=go2_aer&theme=tokyonight&show_owner=true&description_lines_count=2" />
+</a>
+
+</div>
+
 | 项目 Project | 简介 Description | 技术栈 Tech Stack |
 |-------------|-----------------|-------------------|
-| **go2_demo** | Unitree Go2 四足机器人速度跟踪强化学习模板<br>*Go2 velocity tracking RL template* | `Isaac Lab` `RSL-RL` `PPO` `PyTorch` |
-| **go2_aer** | ICRA 2025 复现：自适应能量正则化的四足步态切换与能效优化<br>*ICRA 2025 Reproduction: Adaptive Energy Regularization for Gait Transition* | `Isaac Lab` `RSL-RL` `PPO` `Energy Regulation` |
 | [技术路线 / Research Roadmap](./技术路线.md) | 具身智能研究全景路线图：VLA · VLN · Grasping · RL/IL · 扩散策略 · 流匹配 · SSM<br>*Full research roadmap: VLA, VLN, Grasping, RL/IL, Diffusion Policy, Flow Matching, SSM* | — |
 
 ---
 
 ## 📊 统计 / Stats
+
+<div align="center">
+
+<a href="https://github.com/menoking">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=menoking&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" />
+</a>
+<a href="https://github.com/menoking">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menoking&layout=compact&theme=tokyonight&hide_title=true&langs_count=8" />
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=menoking&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=menoking&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/menoking)
+
+</div>
 
 <div align="center">
 
