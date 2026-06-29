@@ -212,12 +212,6 @@
 
 <div align="center">
 
-[![trophy](https://gh-trophy.cdnsoft.net/?username=menoking&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/menoking)
-
-</div>
-
-<div align="center">
-
 | 分类 Category | 文章数 Articles |
 |:--|:--:|
 | 🤖 Robotics & Embodied AI | 6 |
