@@ -10,3 +10,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Pic folder
+pic/
