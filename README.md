@@ -212,7 +212,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=menoking&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/menoking)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=menoking&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/menoking)
 
 </div>
 
