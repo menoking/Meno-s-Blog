@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=%E4%BB%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%88%B0%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD;%E4%B8%80%E6%9D%A1%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E7%9A%84%E5%85%A8%E8%AE%B0%E5%BD%95;From+Embedded+Systems+to+Embodied+AI;A+Complete+Technical+Journey)](https://git.io/typing-svg)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:1A1B27&height=200&section=header&text=AI-Embodied%20·%20技术博客导航&fontSize=40&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=从嵌入式到具身智能%20一条技术路线的全记录&descSize=16&descAlignY=58)](https://github.com/menoking/Meno-s-Blog)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Embedded+Systems+→+Embodied+AI;AI+·+Robotics+·+Hardware;Deep+Learning+·+PCB+·+IoT)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/Blog-CSDN-orange?style=flat-square&logo=rss)](https://blog.csdn.net/2203_75993546?spm=1001.2014.3001.5343)
 [![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=flat-square)](LICENSE)
@@ -209,15 +211,6 @@
 ## 📊 统计 / Stats
 
 <div align="center">
-
-<a href="https://github.com/menoking">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=menoking&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" />
-</a>
-<a href="https://github.com/menoking">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menoking&layout=compact&theme=tokyonight&hide_title=true&langs_count=8" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=menoking&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=menoking&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/menoking)
 
